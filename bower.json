@@ -1,0 +1,27 @@
+{
+  "name": "JSCMS",
+  "main": "index.js",
+  "version": "0.0.1",
+  "homepage": "https://github.com/CoderAjay/JSCMS",
+  "authors": [
+    "Ajay Singh <meajaysingh@hotmail.com>"
+  ],
+  "description": "javascript cms based on drupal 8",
+  "keywords": [
+    "jscms",
+    "js",
+    "drupal",
+    "jsdrupal"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ckeditor": "~4.4.7"
+  }
+}
